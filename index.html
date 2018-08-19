@@ -4,7 +4,7 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-    <div class="post">
+    <article class="post">
 
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       <div class="excerpt-meta">Written on {{ post.date | date: '%B %d, %Y' }} by {{ post.author }}</div>
