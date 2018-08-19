@@ -2,6 +2,7 @@
 layout: post
 title: Gibbs sampling for Gaussian mixture model
 date:   2017-09-01
+author: Max Hoefl
 categories: bayesian
 excerpt_separator: <!--excerpt-->
 ---
