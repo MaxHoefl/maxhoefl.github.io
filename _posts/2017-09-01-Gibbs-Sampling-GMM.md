@@ -6,14 +6,10 @@ categories: bayesian
 excerpt_separator: <!--excerpt-->
 ---
 
-# Gibbs sampling for Gaussian mixture model
-<p>
-<ul>
-<li>Learn what a Gaussian mixture model is</li>
-<li>Go into detail of how to fit this model using Gibbs sampling</li>
-<li>Test the implementation on a little mock dataset</li>
-</ul>
-</p>
+* Learn what a Gaussian mixture model is
+* Go into detail of how to fit this model using Gibbs sampling
+* Test the implementation on a little mock dataset
+<!--excerpt-->
 
 ### Gaussian Mixture Model (GMM)
 
