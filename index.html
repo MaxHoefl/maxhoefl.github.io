@@ -4,10 +4,10 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post">
+    <div class="post">
 
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt | remove <p> | remove </p> | remove <ul> | remove </ul> | remove <li> | remove </li> }}
+      <div class="excpert"></div><p>{{ post.excerpt }}</p></div>
 
       <!--<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>-->
     </article>
