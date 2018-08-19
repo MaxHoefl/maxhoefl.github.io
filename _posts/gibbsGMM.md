@@ -1,3 +1,7 @@
+---
+layout: post
+title: You're up and running!
+---
 
 
 # Gibbs sampling for Gaussian mixture model
