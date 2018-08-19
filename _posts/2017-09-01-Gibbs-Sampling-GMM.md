@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gibbs sampling for Gaussian mixture model
+title: Gibbs sampling for Gaussian mixture model (test)
 ---
 
 
