@@ -3,7 +3,6 @@ layout: post
 title: Gibbs sampling for Gaussian mixture model (test)
 ---
 
-
 # Gibbs sampling for Gaussian mixture model
 
 In this article we will
