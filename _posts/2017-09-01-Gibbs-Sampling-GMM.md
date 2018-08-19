@@ -1,15 +1,19 @@
 ---
 layout: post
-title: Gibbs sampling for Gaussian mixture model (test)
+title: Gibbs sampling for Gaussian mixture model
+date:   2017-09-01
+categories: bayesian
+excerpt_separator: <!--excerpt-->
 ---
 
 # Gibbs sampling for Gaussian mixture model
-
-In this article we will
-
-*   Explain what a Gaussian mixture model is
-*   Go into detail of how to fit this model using Gibbs sampling
-*   Test the implementation on a little mock dataset
+<p>
+<ul>
+<li>Learn what a Gaussian mixture model is</li>
+<li>Go into detail of how to fit this model using Gibbs sampling</li>
+<li>Test the implementation on a little mock dataset</li>
+</ul>
+</p>
 
 ### Gaussian Mixture Model (GMM)
 
